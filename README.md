@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Sajeeb Khan 👋</h1>
-<h3 align="center">Aspiring AI Engineer | Python & ML Developer | Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=450&lines=Aspiring+AI+Engineer;Python+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sajeebkhan-gpt&label=Profile%20views&color=0e75b6&style=flat" alt="sajeebkhan-gpt" />
@@ -14,6 +17,19 @@
 - 🔨 Always working on personal or open-source projects
 - 🧑‍💻 Goal: Become a professional **AI Engineer**
 - 🌱 Fun fact: I love turning ideas into real-world tools with clean code
+
+---
+
+## 📂 Featured Projects
+
+- [Health Care Platform](https://github.com/sajeebkhan-gpt/health-care-platform)  
+  A web-based platform to manage patient appointments and records.
+
+- [AI Chatbot](https://github.com/sajeebkhan-gpt/ai-chatbot)  
+  An intelligent chatbot built using Python and NLP techniques.
+
+- [SQL Practice](https://github.com/sajeebkhan-gpt/sql-practice)  
+  Collection of SQL queries and database management exercises.
 
 ---
 
@@ -37,11 +53,32 @@
 
 ---
 
+## 🛠️ Languages & Tools
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajeebkhan-gpt&layout=compact&theme=radical" />
+</div>
+
+---
+
 ## 🌍 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajeebkhan-gpt&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+## 🎓 Certifications
+
+![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certified-green)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-yellow)
 
 ---
 
