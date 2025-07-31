@@ -15,6 +15,25 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajeebkhan-gpt&label=Profile%20views&color=0e75b6&style=flat" alt="sajeebkhan-gpt" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sajeebkhan-gpt&theme=algolia&no-bg=true" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajeebkhan-gpt&show_icons=true&theme=tokyonight" />
+</p>
+
 ## 📂 Featured Projects
 
 | Project | Description | Tech |
