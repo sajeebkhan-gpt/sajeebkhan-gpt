@@ -1,20 +1,5 @@
-# 👋 Hi there, I'm Sajeeb Khan
-
-🚀 Aspiring AI Engineer | Passionate about solving real-world problems with code  
-🎯 Building projects with Python, SQL, and AI tools  
-📺 Co-host at "Talk Better with Us" – Learn English. Speak Confidently.
-
----
-
-## 🧠 Currently Exploring
-
-- 🧑‍💻 Python for Data Analysis & Automation  
-- 🗄️ DBMS & SQL (Oracle & MySQL)  
-- 🤖 Machine Learning & Deep Learning (with Scikit-learn & TensorFlow)  
-- 🧩 Git, GitHub, and Clean Code Practices  
-
----
-
+<h1 align="center">Hi 👋, I'm Sajeeb Khan!</h1>
+<h3 align="center">Aspiring AI Engineer | Learning Python, ML, and Building Cool Stuff</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sajeebkhan-gpt&label=Profile%20views&color=0e75b6&style=flat" alt="sajeebkhan-gpt" />
@@ -22,50 +7,108 @@
 
 ---
 
+### 🧠 About Me
+
+- 🔭 I’m currently working on: **Health Care Platform Project**
+- 🌱 I’m learning: **Python, AI/ML, and SQL**
+- 🤝 I’m open to collaborating on: **AI-related open-source projects**
+- 💬 Ask me about: **Python, GitHub, and how I'm learning AI**
+- 📫 Reach me at: **sajeeb.example@gmail.com**
+- ⚡ Fun fact: I love making creative stuff with code and AI!
+
+---
+
 ### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sajeebkhan-gpt&theme=algolia&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sajeebkhan-gpt&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajeebkhan-gpt&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajeebkhan-gpt&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [`ai-chatbot`](https://github.com/sajeebkhan-gpt/ai-chatbot) | Terminal-based chatbot using NLP | Python, NLTK |
-| [`sql-practice`](https://github.com/sajeebkhan-gpt/sql-practice) | Practical SQL queries & use-cases | SQL, Oracle |
-| [`python-mini-projects`](https://github.com/sajeebkhan-gpt/python-mini-projects) | Small but useful Python projects | Python |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeebkhan-gpt&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🛠️ Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Sajeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajeebkhan-gpt&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeebkhan-gpt&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
 
 ---
 
-## 🔗 Connect With Me
+### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-ID)
-[![YouTube](https://img.shields.io/badge/Talk%20Better%20with%20Us-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@talkbetterwithus)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sajeeb.dev@gmail.com)
+<p align="center">
+  <a href="mailto:sajeeb.example@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/sajeebkhan-gpt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<h1 align="center">Hi 👋, I'm Sajeeb Khan!</h1>
+<h3 align="center">Aspiring AI Engineer | Learning Python, ML, and Building Cool Stuff</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajeebkhan-gpt&label=Profile%20views&color=0e75b6&style=flat" alt="sajeebkhan-gpt" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Let's build something amazing together.*
+### 🧠 About Me
+
+- 🔭 I’m currently working on: **Health Care Platform Project**
+- 🌱 I’m learning: **Python, AI/ML, and SQL**
+- 🤝 I’m open to collaborating on: **AI-related open-source projects**
+- 💬 Ask me about: **Python, GitHub, and how I'm learning AI**
+- 📫 Reach me at: **sajeeb.example@gmail.com**
+- ⚡ Fun fact: I love making creative stuff with code and AI!
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sajeebkhan-gpt&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajeebkhan-gpt&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeebkhan-gpt&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:sksajeebkhan003@gmail.com @gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/sajeebkhan-gpt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
