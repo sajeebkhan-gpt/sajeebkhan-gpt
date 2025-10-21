@@ -2,14 +2,14 @@
 <h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | CSE Student</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="180" alt="Profile GIF"/>
+  <img src="https://raw.githubusercontent.com/sajeebkhan_gpt/sajeebkhan_gpt/main/profile.gif" width="180" alt="Profile GIF"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 I’m a **4th-year Computer Science & Engineering** student passionate about **AI, Machine Learning, and Data Science**.  
-I love building **web apps, AI tools, and data projects** that solve real-world problems.  
+I love building **web apps, AI tools, and data-driven projects** that solve real-world problems.  
 🌍 Dreaming to pursue **Master’s in Germany**.  
 
 ---
@@ -21,12 +21,13 @@ I love building **web apps, AI tools, and data projects** that solve real-world 
 
 ---
 
-### 💼 Recent Work
+### 💼 Projects
 <p align="center">
-  <a href="https://github.com/sajeebkhan_gpt/AI-Chatbot-Clone"><img src="https://img.shields.io/badge/AI_Chatbot-OpenAI-blue?style=for-the-badge&logo=python" /></a>
-  <a href="https://github.com/sajeebkhan_gpt/Image-Generator-Website"><img src="https://img.shields.io/badge/Image_Generator-AI_App-red?style=for-the-badge&logo=opencv" /></a>
-  <a href="https://github.com/sajeebkhan_gpt/5-Minutes-Ius"><img src="https://img.shields.io/badge/5_Minutes_Ius-Educational-orange?style=for-the-badge&logo=read-the-docs" /></a>
-  <a href="https://github.com/sajeebkhan_gpt/Mini-Data-Science-Projects"><img src="https://img.shields.io/badge/Data_Science_Projects-Python-green?style=for-the-badge&logo=pandas" /></a>
+  <a href="https://github.com/sajeebkhan_gpt/Health-Care-Platform"><img src="https://img.shields.io/badge/Health_Care_Platform-WebApp-blue?style=for-the-badge" /></a>
+  <a href="https://github.com/sajeebkhan_gpt/5-Minutes-Ius"><img src="https://img.shields.io/badge/5_Minutes_Ius-Educational-orange?style=for-the-badge" /></a>
+  <a href="https://github.com/sajeebkhan_gpt/AI-Chatbot-Clone"><img src="https://img.shields.io/badge/AI_Chatbot-OpenAI-blue?style=for-the-badge" /></a>
+  <a href="https://github.com/sajeebkhan_gpt/Image-Generator-Website"><img src="https://img.shields.io/badge/Image_Generator-AI_App-red?style=for-the-badge" /></a>
+  <a href="https://github.com/sajeebkhan_gpt/E-Commerce-Website"><img src="https://img.shields.io/badge/E-Commerce_Website-WebApp-green?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -50,21 +51,9 @@ I love building **web apps, AI tools, and data projects** that solve real-world 
 
 ---
 
-### 📈 Skill Proficiency
-<p align="left">
-<b>Python:</b>  <img src="https://progress-bar.dev/95/?title=Python&color=blue" alt="Python 95%"/>
-<b>Machine Learning:</b> <img src="https://progress-bar.dev/85/?title=ML&color=green" alt="ML 85%"/>
-<b>Deep Learning:</b> <img src="https://progress-bar.dev/80/?title=DL&color=red" alt="DL 80%"/>
-<b>Data Science:</b> <img src="https://progress-bar.dev/90/?title=DS&color=orange" alt="DS 90%"/>
-<b>Flask Web Dev:</b> <img src="https://progress-bar.dev/75/?title=Flask&color=purple" alt="Flask 75%"/>
-<b>Git & GitHub:</b> <img src="https://progress-bar.dev/85/?title=Git&color=yellow" alt="Git 85%"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajeebkhan_gpt&show_icons=true&theme=radical&count_private=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajeebkhan_gpt&show_icons=true&theme=radical&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeebkhan_gpt&theme=radical&hide_border=false" width="48%" />
 </p>
 
@@ -77,10 +66,6 @@ I love building **web apps, AI tools, and data projects** that solve real-world 
 ### 🗂 Contributions & Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sajeebkhan_gpt&theme=react-dark&hide_border=false" alt="Contribution Activity"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sajeebkhan_gpt&theme=radical&hide_border=false" alt="WakaTime Contribution Chart"/>
 </p>
 
 ---
