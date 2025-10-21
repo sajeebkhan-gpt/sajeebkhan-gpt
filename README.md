@@ -1,92 +1,113 @@
-<h1 align="center">Hi there, I'm Sajeeb Khan 👋</h1>
+<h1 align="center">Hey 👋, I'm Sajeeb Khan!</h1>
+<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=450&lines=Aspiring+AI+Engineer;Python+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajeebkhan-gpt&label=Profile%20views&color=0e75b6&style=flat" alt="sajeebkhan-gpt" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Profile GIF"/>
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎯 Passionate about building intelligent solutions using Python & AI  
-- 🧠 Currently learning **Machine Learning**, **Deep Learning**, and **SQL**
-- 🔨 Always working on personal or open-source projects
-- 🧑‍💻 Goal: Become a professional **AI Engineer**
-- 🌱 Fun fact: I love turning ideas into real-world tools with clean code
+### 👨‍💻 About Me
+🎓 I’m a **4th-year Computer Science & Engineering** student passionate about **AI, Data Science, and Machine Learning**.  
+💡 I build projects — from **Flask web apps** to **AI tools** solving real problems.  
+🌍 Dreaming to pursue **Master’s in Germany** 🇩🇪  
+⚡ Fun fact: I believe **consistency + curiosity = mastery**.  
 
 ---
 
-## 📂 Featured Projects
-
-- [Health Care Platform](https://github.com/sajeebkhan-gpt/health-care-platform)  
-  A web-based platform to manage patient appointments and records.
-
-- [AI Chatbot](https://github.com/sajeebkhan-gpt/ai-chatbot)  
-  An intelligent chatbot built using Python and NLP techniques.
-
-- [SQL Practice](https://github.com/sajeebkhan-gpt/sql-practice)  
-  Collection of SQL queries and database management exercises.
-
----
-
-## 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajeebkhan-gpt&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeebkhan-gpt&theme=radical" width="49%" />
-</div>
-
----
-
-## 🛠️ Languages & Tools
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajeebkhan-gpt&layout=compact&theme=radical" />
-</div>
-
----
-
-## 🌍 Contribution Graph
-
+### 🔭 Projects I’m Working On
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajeebkhan-gpt&theme=react-dark&hide_border=true" />
+  <a href="https://github.com/sajeebkhan_gpt/AI-Chatbot-Clone" target="_blank"><img src="https://img.shields.io/badge/AI_Chatbot-OpenAI_API-blue?style=for-the-badge&logo=python" /></a>
+  <a href="https://github.com/sajeebkhan_gpt/Image-Generator-Website" target="_blank"><img src="https://img.shields.io/badge/Image_Generator-AI_App-red?style=for-the-badge&logo=opencv" /></a>
+  <a href="https://github.com/sajeebkhan_gpt/5-Minutes-Ius" target="_blank"><img src="https://img.shields.io/badge/5_Minutes_Ius-Educational-orange?style=for-the-badge&logo=read-the-docs" /></a>
+  <a href="https://github.com/sajeebkhan_gpt/Mini-Data-Science-Projects" target="_blank"><img src="https://img.shields.io/badge/Data_Science_Projects-Python-green?style=for-the-badge&logo=pandas" /></a>
 </p>
 
 ---
 
-## 🎓 Certifications
-
-![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certified-green)
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-yellow)
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajeebkhan)  
-[![Gmail](https://img.shields.io/badge/-sksajeebkhan003@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sksajeebkhan003@gmail.com)
+### 🌱 Currently Learning
+- Machine Learning & Deep Learning  
+- Data Visualization with Python  
+- Flask + JS Web Development  
+- Git & GitHub for version control  
 
 ---
 
-> “Consistency and curiosity are the real keys to mastering technology.” — Sajeeb Khan
+### 💬 Ask Me About
+- Python, AI/ML, Data Science  
+- Flask, APIs, beginner AI projects  
+- Study abroad guidance for Germany  
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+<a href="mailto:sajeebkhan.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sajeebkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/sajeebkhan_gpt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajeebkhan_gpt&show_icons=true&theme=radical&count_private=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeebkhan_gpt&theme=radical&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajeebkhan_gpt&layout=compact&theme=radical&hide_border=false" width="48%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sajeebkhan_gpt&theme=radical&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🎯 Fun Animated Badges
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajeebkhan_gpt&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/Data_Science-4CAF50?style=for-the-badge&logo=pandas&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/AI-007FFF?style=for-the-badge&logo=opencv&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white&animation=spin" />
+</p>
+
+---
+
+### 📈 Tech Stack Progress
+<p align="left">
+<b>Python:</b>  <img src="https://progress-bar.dev/95/?title=Python&color=blue" alt="Python 95%">
+<b>Machine Learning:</b> <img src="https://progress-bar.dev/85/?title=ML&color=green" alt="ML 85%">
+<b>Deep Learning:</b> <img src="https://progress-bar.dev/80/?title=DL&color=red" alt="DL 80%">
+<b>Data Science:</b> <img src="https://progress-bar.dev/90/?title=DS&color=orange" alt="DS 90%">
+<b>Flask Web Dev:</b> <img src="https://progress-bar.dev/75/?title=Flask&color=purple" alt="Flask 75%">
+<b>Git & GitHub:</b> <img src="https://progress-bar.dev/85/?title=Git&color=yellow" alt="Git 85%">
+</p>
+
+---
+
+⭐ *“Learning every day to make AI more human-friendly.”*
