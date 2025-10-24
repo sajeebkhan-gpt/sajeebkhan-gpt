@@ -1,166 +1,92 @@
-<h1 align="center">Hey 👋, I'm Sajeeb Khan</h1>
-<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | CSE Student</h3>
+<h1 align="center">Hi there, I'm Sajeeb Khan 👋</h1>
 
 <p align="center">
-  <img src="./profile.gif" width="160" alt="Profile GIF"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=450&lines=Aspiring+AI+Engineer;Python+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajeebkhan-gpt&label=Profile%20views&color=0e75b6&style=flat" alt="sajeebkhan-gpt" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I’m a **3rd-year Computer Science & Engineering** student passionate about **AI, Machine Learning, and Data Science**.  
-I build web apps and AI tools — practical projects that solve real problems.  
-🌍 Planning to pursue a **Master’s in Germany**.
+## 🚀 About Me
+
+- 🎯 Passionate about building intelligent solutions using Python & AI  
+- 🧠 Currently learning **Machine Learning**, **Deep Learning**, and **SQL**
+- 🔨 Always working on personal or open-source projects
+- 🧑‍💻 Goal: Become a professional **AI Engineer**
+- 🌱 Fun fact: I love turning ideas into real-world tools with clean code
 
 ---
 
-### 👀 Quick Links / Profile
+## 📂 Featured Projects
+
+- [Health Care Platform](https://github.com/sajeebkhan-gpt/health-care-platform)  
+  A web-based platform to manage patient appointments and records.
+
+- [AI Chatbot](https://github.com/sajeebkhan-gpt/ai-chatbot)  
+  An intelligent chatbot built using Python and NLP techniques.
+
+- [SQL Practice](https://github.com/sajeebkhan-gpt/sql-practice)  
+  Collection of SQL queries and database management exercises.
+
+---
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajeebkhan-gpt&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeebkhan-gpt&theme=radical" width="49%" />
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajeebkhan-gpt&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🌍 Contribution Graph
+
 <p align="center">
-  <a href="https://github.com/sajeebkhan_gpt"><img src="https://img.shields.io/badge/GitHub-sajeebkhan_gpt-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/sajeebkhan"><img src="https://img.shields.io/badge/LinkedIn-sajeebkhan-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:sajeebkhan.cse@gmail.com"><img src="https://img.shields.io/badge/Email-sajeebkhan.cse@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajeebkhan-gpt&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-### 💼 Projects (click to view)
-<p align="center">
-  <a href="https://github.com/sajeebkhan_gpt/Health-Care-Platform"><img src="https://img.shields.io/badge/Health_Care_Platform-WebApp-4a90e2?style=for-the-badge" alt="Health Care" /></a>
-  <a href="https://github.com/sajeebkhan_gpt/5-Minutes-Ius"><img src="https://img.shields.io/badge/5_Minutes_Ius-Educational-f39c12?style=for-the-badge" alt="5 Minutes Ius" /></a>
-  <a href="https://github.com/sajeebkhan_gpt/AI-Chatbot-Clone"><img src="https://img.shields.io/badge/AI_Chatbot-OpenAI-2ecc71?style=for-the-badge" alt="AI Chatbot" /></a>
-  <a href="https://github.com/sajeebkhan_gpt/Image-Generator-Website"><img src="https://img.shields.io/badge/Image_Generator-AI_App-e74c3c?style=for-the-badge" alt="Image Generator" /></a>
-  <a href="https://github.com/sajeebkhan_gpt/E-Commerce-Website"><img src="https://img.shields.io/badge/E-Commerce_Website-WebApp-16a085?style=for-the-badge" alt="E-Commerce" /></a>
-</p>
+## 🎓 Certifications
+
+![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certified-green)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-yellow)
 
 ---
 
-### 🧰 Languages & Tools
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
-</p>
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajeebkhan)  
+[![Gmail](https://img.shields.io/badge/-sksajeebkhan003@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sksajeebkhan003@gmail.com)
 
 ---
 
-### 📊 Stats (stable placeholders)
-<p align="center">
-<img src="https://img.shields.io/badge/Projects-5-success?style=flat-square" alt="Projects" />
-&nbsp;
-<img src="https://img.shields.io/badge/Top_Language-Python-blue?style=flat-square&logo=python" alt="Top language" />
-&nbsp;
-<img src="https://img.shields.io/badge/Available_for_Collab-Yes-orange?style=flat-square" alt="Open for collaborations" />
-</p>
-
----
-
-### 📈 Contribution Heatmap
-<p align="center">
-  <!-- Upload a generated contributions.png to repo root and it will display reliably -->
-  <img src="./contributions.png" alt="Contribution heatmap" style="max-width:100%;border:1px solid #eee;padding:6px;" />
-</p>
-
-> If you don't have `contributions.png` yet, upload a placeholder image (or I can provide a GitHub Action to auto-generate it — see below).
-
----
-
-### 📫 Contact
-<p align="center">
-<a href="mailto:sajeebkhan.cse@gmail.com">📧 Email</a> &nbsp;•&nbsp;
-<a href="https://linkedin.com/in/sajeebkhan">🔗 LinkedIn</a> &nbsp;•&nbsp;
-<a href="https://github.com/sajeebkhan_gpt">💻 GitHub</a>
-</p>
-
----
-<h1 align="center">Hey 👋, I'm Sajeeb Khan</h1>
-<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | CSE Student</h3>
-
-<p align="center">
-  <img src="./profile.gif" width="160" alt="Profile GIF"/>
-</p>
-
----
-
-### 👨‍💻 About Me
-I’m a **3rd-year Computer Science & Engineering** student passionate about **AI, Machine Learning, and Data Science**.  
-I build web apps and AI tools — practical projects that solve real problems.  
-🌍 Planning to pursue a **Master’s in Germany**.
-
----
-
-### 👀 Quick Links / Profile
-<p align="center">
-  <a href="https://github.com/sajeebkhan_gpt"><img src="https://img.shields.io/badge/GitHub-sajeebkhan_gpt-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/sajeebkhan"><img src="https://img.shields.io/badge/LinkedIn-sajeebkhan-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:sajeebkhan.cse@gmail.com"><img src="https://img.shields.io/badge/Email-sajeebkhan.cse@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email" /></a>
-</p>
-
----
-
-### 💼 Projects (click to view)
-<p align="center">
-  <a href="https://github.com/sajeebkhan_gpt/Health-Care-Platform"><img src="https://img.shields.io/badge/Health_Care_Platform-WebApp-4a90e2?style=for-the-badge" alt="Health Care" /></a>
-  <a href="https://github.com/sajeebkhan_gpt/5-Minutes-Ius"><img src="https://img.shields.io/badge/5_Minutes_Ius-Educational-f39c12?style=for-the-badge" alt="5 Minutes Ius" /></a>
-  <a href="https://github.com/sajeebkhan_gpt/AI-Chatbot-Clone"><img src="https://img.shields.io/badge/AI_Chatbot-OpenAI-2ecc71?style=for-the-badge" alt="AI Chatbot" /></a>
-  <a href="https://github.com/sajeebkhan_gpt/Image-Generator-Website"><img src="https://img.shields.io/badge/Image_Generator-AI_App-e74c3c?style=for-the-badge" alt="Image Generator" /></a>
-  <a href="https://github.com/sajeebkhan_gpt/E-Commerce-Website"><img src="https://img.shields.io/badge/E-Commerce_Website-WebApp-16a085?style=for-the-badge" alt="E-Commerce" /></a>
-</p>
-
----
-
-### 🧰 Languages & Tools
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
-</p>
-
----
-
-### 📊 Stats (stable placeholders)
-<p align="center">
-<img src="https://img.shields.io/badge/Projects-5-success?style=flat-square" alt="Projects" />
-&nbsp;
-<img src="https://img.shields.io/badge/Top_Language-Python-blue?style=flat-square&logo=python" alt="Top language" />
-&nbsp;
-<img src="https://img.shields.io/badge/Available_for_Collab-Yes-orange?style=flat-square" alt="Open for collaborations" />
-</p>
-
----
-
-### 📈 Contribution Heatmap
-<p align="center">
-  <!-- Upload a generated contributions.png to repo root and it will display reliably -->
-  <img src="./contributions.png" alt="Contribution heatmap" style="max-width:100%;border:1px solid #eee;padding:6px;" />
-</p>
-
-> If you don't have `contributions.png` yet, upload a placeholder image (or I can provide a GitHub Action to auto-generate it — see below).
-
----
-
-### 📫 Contact
-<p align="center">
-<a href="mailto:sajeebkhan.cse@gmail.com">📧 Email</a> &nbsp;•&nbsp;
-<a href="https://linkedin.com/in/sajeebkhan">🔗 LinkedIn</a> &nbsp;•&nbsp;
-<a href="https://github.com/sajeebkhan_gpt">💻 GitHub</a>
-</p>
-
----
+> “Consistency and curiosity are the real keys to mastering technology.” — Sajeeb Khan
