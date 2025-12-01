@@ -22,17 +22,18 @@
 
 ## 📂 Featured Projects
 
-- [Health Care Platform](https://github.com/sajeebkhan-gpt/health-care-platform)  
+
+- [Health Care Platform](URL)
   A web-based platform to manage patient appointments and records.
 
-- [AI Chatbot](https://github.com/sajeebkhan-gpt/ai-chatbot)  
+- [AI Chatbot](URL)
   An intelligent chatbot built using Python and NLP techniques.
 
-- [SQL Practice](https://github.com/sajeebkhan-gpt/sql-practice)  
+- [SQL Practice](URL)
   Collection of SQL queries and database management exercises.
 
-  - [AIPA Lite – AI Study Abroad Profile Analyzer](YOUR_REPO_URL_HERE)  
-  A multi-agent AI system that analyzes a student’s academic profile, ranks countries, matches scholarships, and generates a complete PDF + JSON report. Built for the Google AI Agents Intensive Capstone.
+- [AIPA Lite – AI Study Abroad Profile Analyzer](YOUR_REPO_URL_HERE)  
+  A multi-agent AI system that analyzes student profiles, ranks countries, matches scholarships, and generates full reports (PDF + JSON). Built for the Google AI Agents Intensive Capstone.
 
 
 ---
