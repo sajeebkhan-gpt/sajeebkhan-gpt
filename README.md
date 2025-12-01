@@ -31,6 +31,10 @@
 - [SQL Practice](https://github.com/sajeebkhan-gpt/sql-practice)  
   Collection of SQL queries and database management exercises.
 
+  - [AIPA Lite – AI Study Abroad Profile Analyzer](YOUR_REPO_URL_HERE)  
+  A multi-agent AI system that analyzes a student’s academic profile, ranks countries, matches scholarships, and generates a complete PDF + JSON report. Built for the Google AI Agents Intensive Capstone.
+
+
 ---
 
 ## 🧰 Tech Stack
