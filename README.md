@@ -82,8 +82,21 @@
 
 ## 🎓 Certifications
 
-![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certified-green)
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-yellow)
+## 🎓 Certifications
+
+![Kaggle Python](https://img.shields.io/badge/Kaggle-Python%20Certified-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Kaggle Dataset Creator](https://img.shields.io/badge/Kaggle-Dataset%20Creator-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Kaggle Notebook Contributor](https://img.shields.io/badge/Kaggle-Notebook%20Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+![Gemini Certified Educator](https://img.shields.io/badge/Gemini-Certified%20Educator-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI Prompt Engineering](https://img.shields.io/badge/AI%20Prompt%20Engineering-Level%201-FF9800?style=for-the-badge)
+
+![Google IT Support](https://img.shields.io/badge/Google-IT%20Support%20Certified-34A853?style=for-the-badge&logo=google&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![IPUC Certificate](https://img.shields.io/badge/IPUC-Participant-9C27B0?style=for-the-badge)
+![RoboSoccer Certificate](https://img.shields.io/badge/RoboSoccer-Competition%20Certified-03A9F4?style=for-the-badge)
+
 
 ---
 
