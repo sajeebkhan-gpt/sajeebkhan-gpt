@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sajeeb Khan 👋</h1>
+<h1 align="center">I'm a CSE student at the University of Scholars on a mission to become a Data Scientist and AI/ML Engineer. Using Python in Google Colab with libraries like NumPy, Pandas, and Scikit-learn, I develop projects ranging from data analytics and visualization to machine learning pipelines and web-based solutions. This GitHub showcases my journey of building futuristic technologies through consistent learning and real-world problem solving.👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=450&lines=Aspiring+AI+Engineer;Python+Developer;Tech+Enthusiast" alt="Typing SVG" />
