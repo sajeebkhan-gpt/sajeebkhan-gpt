@@ -1,127 +1,109 @@
-<div align="center">
-Hi, I'm Sajeeb Khan 👋
-Aspiring AI Engineer | Python · Machine Learning · Data Science
-CSE student at the University of Scholars, Dhaka — building real ML projects and AI-powered web apps.
-[!LinkedIn](https://linkedin.com/in/sajeebkhan)
-[!Gmail](mailto:sksajeebkhan003@gmail.com)
-!Profile views
-</div>
+[10/30/2026 7:38 PM] Md. Sajeeb: <h1 align="center">I'm a CSE student at the University of Scholars exploring Data Science and AI/ML. I build projects using Python (NumPy, Pandas, Scikit-learn) in Google Colab—turning data into insights and models into real applications. GitHub is my workspace for innovative, future-ready projects.👋</h1>
 
-🚀 About Me
-🎯 Building intelligent solutions with Python, Scikit-learn, Pandas, and NumPy
-🧠 Learning Machine Learning, Deep Learning, and SQL — with a goal to become a professional AI Engineer
-🔨 Focused on end-to-end projects: data → model → working app
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=450&lines=Aspiring+AI+Engineer;Python+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-📂 Featured Projects
-Project
-What it does
-Tech
-AIPA Lite
-Multi-agent AI system that analyses student profiles, ranks countries, matches scholarships, and generates PDF + JSON reports
-Python, Pandas, Matplotlib, FPDF
-Diabetes Risk Prediction
-Kaggle ML models for diabetes risk prediction
-Gradient Boosting, LightGBM, Stacking
-HelloDoc
-Secure healthcare management: scheduling, practitioner verification, patient monitoring, clinical documentation
-Node.js, SQLite, HTML/CSS/JS
-Health Care Platform
-Web platform to manage patient appointments and records
-Python, HTML/CSS/JS, SQLite/MySQL
-AI FAQ Chatbot
-AI chatbot that answers learning questions from text
-Flask, Scikit-learn, TF-IDF
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajeebkhan-gpt&label=Profile%20views&color=0e75b6&style=flat" alt="sajeebkhan-gpt" />
+</p>
 
-🧰 Tech Stack
-!Python
-!Pandas
-!NumPy
-!Scikit-learn
-!MySQL
-!Git
-!VS Code
+---
 
-🎓 Certifications
-Only the most relevant certificates are shown in full. A link means you can verify it — no link means it was issued as a certificate image only.
-⭐ Featured
-Certificate
-Issuer
-Date
-Gemini Certified Educator
-Google for Education
-Oct 2025 – Oct 2028
-5-Day AI Agents Intensive Course
-Google / Kaggle
-Dec 2025
-Machine Learning with Python
-IBM SkillsBuild
-Apr 2026 — Verify
-Data Science 101
-IBM SkillsBuild
-Mar 2026 — Verify
-Data Analysis with Python
-IBM / Cognitive Class
-Apr 2026 — Verify
-AI+ Prompt Engineer Level 1
-AI CERTs — No. 48c06e685cba
-Jul 2025 – Jul 2026
-🤖 AI & Machine Learning
-Certificate
-Issuer
-Date
-Verify
-AI Fundamentals: Foundations for Understanding AI
-IBM SkillsBuild
-May 2026
-Credly
-Getting Started with Artificial Intelligence
-IBM SkillsBuild
-May 2026
-Credly
-Machine Learning with Python - Level 1
-IBM
-Apr 2026
-Credly
-AI/ML Engineering Career Jumpstart
-Ostad — ID: C38779
-—
-—
-📊 Data Science & Python
-Certificate
-Issuer
-Date
-Verify
-Data Visualization with Python
-IBM / Cognitive Class
-Apr 2026
-Verify
-Data Visualization Using Python
-IBM
-Apr 2026
-Credly
-Data Science Foundations - Level 1
-IBM
-Mar 2026
-Credly
-Data Science & Analytics
-HP LIFE — Serial: eb94364f-a06e-4997-9994-d1adedfc8859
-Feb 2026
-—
-<details>
-<summary><b>Other certificates & participation</b> — click to expand</summary>
-Email Writing — 10 Minute School (Jul 2025, ID: 686637ba6d5ad)
-5th IUS Intra University Programming Contest, Spring 24 — University of Scholars (Sep 2024, Team: Alvo Expert, Participation)
-Microsoft Learn: Azure Machine Learning and Microsoft 365 Copilot modules
-Additional IBM SkillsBuild AI courses
-</details>
+## 🚀 About Me
 
-📊 GitHub Stats
+- 🎯 Passionate about building intelligent solutions using Python & AI  
+- 🧠 Currently learning Machine Learning, Deep Learning, and SQL
+- 🔨 Always working on personal or open-source projects
+- 🧑‍💻 Goal: Become a professional AI Engineer
+- 🌱 Fun fact: I love turning ideas into real-world tools with clean code
+
+---
+
+## 📂 Featured Projects
+
+
+- [Health Care Platform](URL)
+  A web-based platform to manage patient appointments and records.
+
+- [AI Chatbot](URL)
+  An intelligent chatbot built using Python and NLP techniques.
+
+- [SQL Practice](URL)
+  Collection of SQL queries and database management exercises.
+
+- [AIPA Lite – AI Study Abroad Profile Analyzer](YOUR_REPO_URL_HERE)  
+  A multi-agent AI system that analyzes student profiles, ranks countries, matches scholarships, and generates full reports (PDF + JSON). Built for the Google AI Agents Intensive Capstone.
+
+
+---
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sajeebkhan-gpt&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeebkhan-gpt&theme=radical" width="49%" />
 </div>
+
+---
+
+## 🛠 Languages & Tools
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajeebkhan-gpt&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🌍 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajeebkhan-gpt&theme=react-dark&hide_border=true" />
 </p>
 
-“Consistency and curiosity are the real keys to mastering technology.” — Sajeeb Khans
+---
+
+## 🎓 Certifications
+
+## 🎓 Certifications
+
+![Kaggle Python](https://img.shields.io/badge/Kaggle-Python%20Certified-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Kaggle Dataset Creator](https://img.shields.io/badge/Kaggle-Dataset%20Creator-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Kaggle Notebook Contributor](https://img.shields.io/badge/Kaggle-Notebook%20Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+![Gemini Certified Educator](https://img.shields.io/badge/Gemini-Certified%20Educator-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI Prompt Engineering](https://img.shields.io/badge/AI%20Prompt%20Engineering-Level%201-FF9800?style=for-the-badge)
+[10/30/2026 7:38 PM] Md. Sajeeb: ![Google IT Support](https://img.shields.io/badge/Google-IT%20Support%20Certified-34A853?style=for-the-badge&logo=google&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![IPUC Certificate](https://img.shields.io/badge/IPUC-Participant-9C27B0?style=for-the-badge)
+![RoboSoccer Certificate](https://img.shields.io/badge/RoboSoccer-Competition%20Certified-03A9F4?style=for-the-badge)
+
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajeebkhan)  
+[![Gmail](https://img.shields.io/badge/-sksajeebkhan003@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sksajeebkhan003@gmail.com)
+
+---
+
+> “Consistency and curiosity are the real keys to mastering technology.” — Sajeeb Khan
